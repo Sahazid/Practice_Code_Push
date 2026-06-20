@@ -81,3 +81,32 @@
     align-items: center;
     border: 1px solid #e2e8f0;
 }
+
+footer
+{
+    display: flex;
+    background-color: #1e293b;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #e2e8f0;
+}
+
+.menu .navlink a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.fun
+{
+    background-color: #1e293b;
+    height: 100vh;
+    width:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-wrap: wrap;
+    
+}
